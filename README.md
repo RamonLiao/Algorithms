@@ -1,2 +1,2 @@
 # algorithm
-the most popular algorithms (keeping updating)
+the most popular algorithms in Python (keeping updating)
