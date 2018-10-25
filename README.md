@@ -1,12 +1,6 @@
 # Algorithm
 The most popular algorithms in Python (continually updated)
 
-|Search||
-|---|---|
-|[Bread-first Search](https://github.com/RamonLiao/algorithm/blob/master/breadth-first%20search.py)|[Graph-BFS](https://github.com/RamonLiao/algorithm/blob/master/Graph-BFS.py)|
-|[Depth-first Search](https://github.com/RamonLiao/algorithm/blob/master/depth-first%20search.py)|[Graph-DFS](https://github.com/RamonLiao/algorithm/blob/master/Graph-DFS.py)|
-|[Floyd-Warshall](https://github.com/RamonLiao/algorithm/blob/master/Floyd-Warshall.py)||
-### Search 搜尋
 |Link|Name|Note|
 |---|---|---|
 |[Bread-first Search](https://github.com/RamonLiao/algorithm/blob/master/breadth-first%20search.py)|廣度優先搜尋||
@@ -18,11 +12,6 @@ The most popular algorithms in Python (continually updated)
 ||||
 ||||
 ||||
-
-|Sort||
-|---|---|
-|[Bucket Sort]()|[Radix Sort]()|
-|[Bubble Sort]()|[Quick Sort]()|
 
 ### Sort 排序
 |Link|Name|Note|
