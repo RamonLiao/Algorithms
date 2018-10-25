@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# algorithm
-the most popular algorithms in Python (continually updated)
-=======
 # Algorithm
 The most popular algorithms in Python (continually updated)
 
@@ -15,4 +11,4 @@ The most popular algorithms in Python (continually updated)
 |---|---|
 |[Bucket Sort]()|[Radix Sort]()|
 |[Bubble Sort]()|[Quick Sort]()|
->>>>>>> parent of 2150007... Update README.md
+
