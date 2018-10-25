@@ -1,3 +1,7 @@
+# import sys
+# print(sys.version)
+# print (sys.path)
+# exit()
 import numpy as np
 import pandas as pd
 
@@ -43,7 +47,7 @@ for i in range(1, n+1):
 		print(e[i][j])
 # ------------------------
 # 0
-# 2
+# 2s
 # 5
 # 4
 # 9
